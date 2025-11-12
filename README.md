@@ -31,5 +31,5 @@ It’s a beginner-friendly but real-world DevOps project built and deployed by *
 
 ---
 
-## 📁 Project Structure
+
 
