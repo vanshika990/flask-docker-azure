@@ -14,7 +14,7 @@ This project showcases how to:
 - Deploy the containerized app to an **Azure Linux Virtual Machine**  
 - Automate the image build & push process using **GitHub Actions (CI/CD)**  
 
-It’s a beginner-friendly but real-world DevOps project built and deployed by **Vanshika Jain** using her **Azure Student Subscription**.
+
 
 ---
 
