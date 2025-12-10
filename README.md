@@ -12,7 +12,7 @@ This project showcases how to:
 - Containerize it using Docker  
 - Push the Docker image to **Docker Hub**  
 - Deploy the containerized app to an **Azure Linux Virtual Machine**  
-- Automate the image build & push process using **GitHub Actions (CI/CD)**  
+- Automate the image build & push process using **jenkins (CI/CD)**  
 
 
 
@@ -25,7 +25,7 @@ This project showcases how to:
 | **Frontend / Backend** | Flask (Python) |
 | **Containerization** | Docker |
 | **Cloud Platform** | Microsoft Azure (Linux VM) |
-| **CI/CD Automation** | GitHub Actions |
+| **CI/CD Automation** | Jenkins |
 | **Reverse Proxy (optional)** | Nginx |
 | **Image Registry** | Docker Hub |
 
